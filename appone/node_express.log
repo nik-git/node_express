@@ -1,0 +1,8 @@
+
+> appone@0.0.0 start /git_repo/js/nikgit/node_express/appone
+> node ./bin/www
+
+[0mGET / [36m304 [0m205.501 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.545 ms - -[0m
+[0mGET / [36m304 [0m11.548 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.503 ms - -[0m
